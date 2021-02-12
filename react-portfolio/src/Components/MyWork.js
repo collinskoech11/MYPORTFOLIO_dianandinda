@@ -4,7 +4,7 @@ export class MyWork extends Component {
     render() {
         return (
             <div>
-                My work page
+              
             </div>
         )
     }
