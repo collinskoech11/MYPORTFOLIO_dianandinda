@@ -1,5 +1,5 @@
 import './App.css';
-
+import Hero from './Components/Hero'
 import { Gradient } from 'react-gradient';
 
 const gradients = [
@@ -8,16 +8,15 @@ const gradients = [
 ];
 export default function App() {
   return (
-    <div className="App">
+    
        <Gradient
                 gradients={ gradients } // required
                 property="background"
                 duration={ 3000 }
                 angle="45deg"
             >
-
+              <Hero/>
             </Gradient>
-    </div>
   );
 }
 
