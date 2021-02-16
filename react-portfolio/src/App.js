@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import Hero from './Components/Hero'
 import { Gradient } from 'react-gradient';
 
@@ -15,7 +15,7 @@ export default function App() {
                 angle="45deg">
 
               <Hero/>
-              
+
             </Gradient>
   );
 }
