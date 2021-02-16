@@ -8,14 +8,14 @@ const gradients = [
 ];
 export default function App() {
   return (
-    
        <Gradient
                 gradients={ gradients } // required
                 property="background"
                 duration={ 3000 }
-                angle="45deg"
-            >
+                angle="45deg">
+
               <Hero/>
+              
             </Gradient>
   );
 }
