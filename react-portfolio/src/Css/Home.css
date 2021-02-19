@@ -5,12 +5,24 @@
     margin-right: auto;
     border-radius: 5px;
     width: 80%;
-    padding: 20px;
+    padding:0;
 }
 .nav{
     color: black;
     background: #f7f7f7;
-    cursor: pointer;
+    cursor: default;
     text-align: center;
+    width: 100%;
+    border-radius: 5px;
+
+}
+
+.nav li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 30px;
+    font-size: 25px;
+    cursor: pointer;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
