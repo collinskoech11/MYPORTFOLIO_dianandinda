@@ -6,8 +6,7 @@ function Hero() {
             <h1 style={{color:'#fff'}}>Diana Ndinda Nyamai</h1>
             <p style={{color:'#fff'}}>Hello, Welcome to my portfolio</p>
             <p style={{color:'#fff'}}>Feel free to contact me if you like what you see</p>
-            
-        </div>
+            </div>
     )
 }
 
