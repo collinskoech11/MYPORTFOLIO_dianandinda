@@ -5,8 +5,9 @@ export class Home extends Component {
         return (
             <div>
                <div className="main" >
-           ggfhjdhgskhbhgdjh...thi sthe homepage
-           here we will talk about the homepage 
+               <div className="nav">
+               
+               </div>
                </div>
             </div>
         )

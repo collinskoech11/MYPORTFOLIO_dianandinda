@@ -7,3 +7,9 @@
     width: 80%;
     padding: 20px;
 }
+.nav{
+    color: black;
+    background: #f7f7f7;
+    cursor: pointer;
+    text-align: center;
+}
