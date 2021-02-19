@@ -1,6 +1,8 @@
 .main{
     background: #fff;
-    height: 500px;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 300px;
     padding: 20px;
 }
