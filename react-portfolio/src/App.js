@@ -5,7 +5,7 @@ import './Css/Home.css';
 import Hero from './Components/Hero';
 import { Gradient } from 'react-gradient';
 import Home from './Components/Home';
-import Navbar from './Components/Navigation/Navbar';
+
 
 const gradients = [
   ['#bd19d6', '#ea7d10'],
@@ -16,12 +16,13 @@ export default function App() {
        <Gradient
                 gradients={ gradients } // required
                 property="background"
+                height="100vh"
                 duration={ 3000 }
                 angle="45deg">
 
               <Hero/>
               <Home/>
-              <Navbar/>
+             
             </Gradient>
   );
 }
