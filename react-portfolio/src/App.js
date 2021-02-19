@@ -1,8 +1,11 @@
 import './App.css';
 import './Css/Home.css';
-import Hero from './Components/Hero'
+
+
+import Hero from './Components/Hero';
 import { Gradient } from 'react-gradient';
 import Home from './Components/Home';
+import Navbar from './Components/Navigation/Navbar';
 
 const gradients = [
   ['#bd19d6', '#ea7d10'],
@@ -18,6 +21,7 @@ export default function App() {
 
               <Hero/>
               <Home/>
+              <Navbar/>
             </Gradient>
   );
 }
