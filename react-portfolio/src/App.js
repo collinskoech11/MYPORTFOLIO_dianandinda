@@ -16,7 +16,7 @@ export default function App() {
        <Gradient
                 gradients={ gradients } // required
                 property="background"
-                height="100vh"
+                style={{height:'100vh'}}
                 duration={ 3000 }
                 angle="45deg">
 
