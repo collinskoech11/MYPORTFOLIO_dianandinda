@@ -11,6 +11,7 @@ export class Home extends Component {
                <li>My Projects </li>
                <li>My Skills </li>
                </ul>
+               <div></div>
                </div>
                </div>
             </div>
