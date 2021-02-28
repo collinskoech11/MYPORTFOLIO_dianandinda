@@ -16,6 +16,10 @@
     border-radius: 5px;
 
 }
+.nav ul{
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .nav li{
     list-style-type: none;
