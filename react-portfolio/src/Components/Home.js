@@ -18,7 +18,7 @@ export class Home extends Component {
                <h1>About me</h1>
                </div>
                <div className="row" style={{padding:'20px'}}>
-               <div className="col-lg-6 col-md-2">
+               <div className="col-lg-6 col-md-2 h-100">
                My name is Diana Ndinda Nyamai.i am a dedicated and motivated software developer
 i am experienced in frontend developer and i have worked with the company Fundis as an intern.
 The languages and technologies i am good at include javascript,java,python,react. i love technology and always ready to learn something new.
@@ -29,6 +29,7 @@ The languages and technologies i am good at include javascript,java,python,react
                </div>
                </div>
                </section>
+               <hr/>
                </div>
             </div>
         )
