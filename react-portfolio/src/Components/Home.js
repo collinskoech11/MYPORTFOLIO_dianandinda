@@ -24,7 +24,8 @@ i am experienced in frontend developer and i have worked with the company Fundis
 The languages and technologies i am good at include javascript,java,python,react. i love technology and always ready to learn something new.
                </div>
                <div className="col-lg-6 col-md-2">
-               <img className="img-fluid" src="./Images/profile.png" alt="profilepic"/>
+               <div className="profile">  <img className="img-fluid" src="./Images/profile.png" alt="profilepic"/></div>
+             
                </div>
                </div>
                </section>
