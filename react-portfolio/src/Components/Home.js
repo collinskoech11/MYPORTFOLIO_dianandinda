@@ -26,7 +26,6 @@ export class Home extends Component {
                </div>
                <div className="col-lg-6 col-md-6" style={{paddingLeft:'200px'}}>
                <div className="profile">  <img className="img-fluid" src="./Images/profile.png" alt="profilepic"/></div>
-             
                </div>
                </div>
                </section>
