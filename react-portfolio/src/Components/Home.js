@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import MyWork from './MyWork'
 
 export class Home extends Component {
     render() {
@@ -30,6 +31,7 @@ The languages and technologies i am good at include javascript,java,python,react
                </div>
                </section>
                <hr/>
+               <MyWork/>
                </div>
             </div>
         )
