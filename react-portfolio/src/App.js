@@ -17,7 +17,7 @@ export default function App() {
                 gradients={ gradients } // required
                 property="background"
                 style={{height:'200vh'}}
-                duration={ 3000 }
+                duration={ 10000 }
                 angle="45deg">
 
               <Hero/>
