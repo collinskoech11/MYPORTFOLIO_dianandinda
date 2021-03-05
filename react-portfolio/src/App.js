@@ -13,10 +13,12 @@ const gradients = [
 ];
 export default function App() {
   return (
-     
-
-              <Hero/>
+     <div> 
+     <Hero/>
               <Home/>
+              
+              </div>
+             
              
            
   );
