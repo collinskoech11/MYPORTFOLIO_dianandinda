@@ -31,6 +31,7 @@ export class Home extends Component {
                </section>
                <hr/>
                <MyWork/>
+               <hr/>
                </div>
             </div>
         )
