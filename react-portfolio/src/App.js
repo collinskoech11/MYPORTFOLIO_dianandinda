@@ -11,7 +11,6 @@ export default function App() {
      <div> 
              <Hero/>
               <Home/>
-              
               </div>
              
              
