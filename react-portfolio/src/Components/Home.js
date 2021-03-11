@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import MyWork from './MyWork'
+import Skills from './Skills'
 
 export class Home extends Component {
     render() {
@@ -32,6 +33,7 @@ export class Home extends Component {
                <hr/>
                <MyWork/>
                <hr/>
+               <Skills/>
                </div>
             </div>
         )
