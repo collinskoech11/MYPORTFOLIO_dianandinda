@@ -1,7 +1,5 @@
 import './App.css';
 import './Css/Home.css';
-
-
 import Hero from './Components/Hero';
 import Home from './Components/Home';
 
